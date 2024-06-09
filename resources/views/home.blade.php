@@ -7,7 +7,18 @@
                 <h3><b>Dashboard</b></h3>
                 <div class="card col-md-12">
                     <div class="card-body mt-4">
-                        <div class="card col-md-12">
+                        <p style="font-size: 1.5em; color:#008CBA">
+                            Welcome to Rural Library Management System!
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+@endsection
+
+
+{{-- <div class="card col-md-12">
                             <a href="{{ route('supervisor.index') }}" class="btn btn-primary btn-lg btn-block">
                                 <i class="bi bi-person-badge-fill"></i><br>
                                 Supervisor
@@ -41,10 +52,4 @@
                                 <i class="bi bi-journal-text"></i><br>
                                 Loan
                             </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-@endsection
+                        </div> --}}
