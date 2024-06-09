@@ -1,8 +1,8 @@
 <!-- ======= Sidebar ======= -->
-<aside id="sidebar" class="sidebar">
-    <ul class="sidebar-nav" id="sidebar-nav">                
+<aside id="sidebar" class="sidebar" style="background-color: #008CBA; color: turquoise;">
+    <ul class="sidebar-nav" id="sidebar-nav" >                
 
-        <li class="nav-heading">Pages</li>
+        <li class="nav-heading" style="color: white;">Pages</li>
 
         <li class="nav-item">
             <a class="nav-link collapsed" href="{{route('supervisor.index')}}">
